@@ -1,5 +1,5 @@
 # ECOXIIMBAL
-Website ECOXIIMBAL VERSION 1.0
+Website ECOXIIMBAL VERSION 1.0  
 RESOURCES:
 
 -Animaciones: https://animate.style/	
